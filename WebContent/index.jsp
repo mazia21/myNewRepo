@@ -17,7 +17,7 @@
         <!-- <script src="index.js" type="text/javascript"></script> -->
         <script src="https://g2project.github.io/main/index.js" type="text/javascript"></script>
     </head>
-<body id="">
+<body id=""><!--test-->
         
     <!-- 헤더시작 -->
     <header class="" id="header">
